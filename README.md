@@ -1,5 +1,5 @@
-# TESTCAPCHABOT - chat bot
-It is repository for chat bot: [@TESTCAPCHABOT](https://t.me/TESTCAPCHABOT)
+# nddnndnsbot - chat bot
+It is repository for chat bot: [@nddnndnsbot](https://t.me/nddnndnsbot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.

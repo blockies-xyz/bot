@@ -21,4 +21,3 @@ if (!has) {
 } else {
   Bot.sendMessage("You Already Received")
 }
-

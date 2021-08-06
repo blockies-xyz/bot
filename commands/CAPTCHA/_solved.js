@@ -22,4 +22,3 @@ if (request.data) {
 var stac = User.getProperty("captcha")
 User.setProperty("captcha", "solved")
 Bot.runCommand("HOME_PASS")
-

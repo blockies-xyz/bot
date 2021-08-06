@@ -13,4 +13,3 @@ User.setProperty("captcha", "")
 var rescaptcha = Libs.ResourcesLib.userRes("ctwarn")
 rescaptcha.set(0)
 Bot.runCommand("/start")
-

@@ -31,4 +31,3 @@ if (chance.value() == 2) {
     Bot.runCommand("/start")
   }
 }
-

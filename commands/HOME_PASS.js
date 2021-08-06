@@ -10,4 +10,3 @@
 CMD*/
 
 Bot.sendKeyboard("Resolve Captcha", "This Is my home")
-

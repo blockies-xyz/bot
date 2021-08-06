@@ -104,4 +104,3 @@ if (captchawarn == "2") {
     Bot.runCommand("HOME_PASS")
   }
 }
-
